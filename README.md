@@ -1,44 +1,92 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&animation=fadeIn" width="100%"/>
+
 </div>
-<h1 align="left">Hi, I'm Swoyesh 👋</h1>
-<h3 align="left">Aspiring ML Engineer & Data Scientist · learning and building with AI from first principles</h3>
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="360" alt="coding" />
 
-About me
+<div align="center">
 
-🔀 Transitioned from web development into AI/ML & Data Science — and never looking back
-🌱 Currently deepening my understanding of Machine Learning, Deep Learning, and LLMs
-🧠 Passionate about ML architectures, the mathematics behind models, and making data tell stories
-📊 Exploring transformer architectures, fine-tuning with HuggingFace, and analytics with Power BI
+# Swoyesh Shrestha
 
+**Aspiring ML Engineer · Data Scientist · AI Enthusiast**
 
-🛠 Stack I'm learning & working with
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow" title="TensorFlow"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="huggingface" title="HuggingFace"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="powerbi" title="Power BI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="sql" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter" title="Jupyter"/>
-</p>
+*Transitioned from building for the web to building intelligent systems —*
+*fascinated by the mathematics, architecture, and real-world impact of AI.*
 
-🎯 Focus areas
-Transformer architectures  ·  LLM fine-tuning  ·  Statistical modelling  ·  Data analytics & BI  ·  Computer vision  ·  NLP  ·  ML mathematics
+<br/>
 
-🤝 Connect with me
-<p align="left">
-  <a href="https://twitter.com/swoyeshsth" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/swoyeshsth?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/swoyesh-shrestha-60490a229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-@swoyeshsth-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/swoyeshsth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swoyesh%20Shrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/swoyesh-shrestha-60490a229)
+[![Profile Views](https://komarev.com/ghpvc/?username=swoyesh&style=flat-square&color=2c5364&label=profile+views)](https://github.com/swoyesh)
 
-📊 GitHub stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swoyesh&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+</div>
+
+---
+
+## 👤 About Me
+
+```python
+swoyesh = {
+    "focus"      : ["Machine Learning", "Deep Learning", "Data Science", "Data Analytics"],
+    "learning"   : ["LLMs & Transformers", "ML Architectures", "Statistical Modelling"],
+    "tools"      : ["PyTorch", "TensorFlow", "HuggingFace", "Power BI"],
+    "background" : "Previously in web dev → now fully committed to AI/ML",
+    "goal"       : "Build, understand, and contribute to intelligent systems"
+}
+```
+
+---
+
+## 🔬 What I'm Focusing On
+
+| Area | Details |
+|------|---------|
+| 🤖 **Machine Learning** | Supervised & unsupervised learning, model training, evaluation |
+| 🧠 **Deep Learning** | Neural network architectures, CNNs, RNNs, attention mechanisms |
+| 💬 **LLMs & NLP** | Transformer architecture, fine-tuning with HuggingFace, prompt engineering |
+| 📊 **Data Analytics** | Exploratory data analysis, dashboards, storytelling with Power BI |
+| ➗ **ML Mathematics** | Linear algebra, calculus, probability & statistics for ML |
+
+---
+
+## 🛠 Tech Stack
+
+#### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+#### Data & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+#### Environment & Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swoyesh&show_icons=true&hide_border=true&theme=tokyonight&hide=prs&count_private=true" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" width="100%"/>
+
+*"The goal is to turn data into information, and information into insight."*
+
+</div>
