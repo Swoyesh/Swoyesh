@@ -71,17 +71,6 @@ swoyesh = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swoyesh&show_icons=true&hide_border=true&theme=tokyonight&hide=prs&count_private=true" height="160"/>
-
-</div>
-
----
 
 <div align="center">
 
